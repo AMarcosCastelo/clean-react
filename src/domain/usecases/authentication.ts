@@ -1,4 +1,4 @@
-import { AccountModel } from '../models'
+import { AccountModel } from '../models/account-models'
 
 export interface AuthenticationParams {
   email: string
