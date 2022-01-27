@@ -11,7 +11,6 @@
     "moduleResolution": "node",
     "skipLibCheck": true,
     "strict": false,
-    "isolatedModules": true,
     "forceConsistentCasingInFileNames": true,
     "jsx": "react",
     "rootDirs": [
