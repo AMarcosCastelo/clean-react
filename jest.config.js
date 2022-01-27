@@ -5,5 +5,8 @@ module.exports = {
   testEnvironment: 'node',
   transform: {
     '.*\\.(js|jsx|ts|tsx)$': 'ts-jest'
+  },
+  moduleNameMapper: {
+    '@/(.*)$': '<rootDir>/src/$1'
   }
 }

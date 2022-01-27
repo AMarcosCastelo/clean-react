@@ -13,11 +13,8 @@
     "strict": false,
     "forceConsistentCasingInFileNames": true,
     "jsx": "react",
-    "rootDirs": [
-      "src",
-      "tests"
-    ],
-    "baseUrl": ".",
+    "rootDir": "src",
+    "baseUrl": "src",
     "paths": {
       "@/*": [
         "*"
