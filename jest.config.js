@@ -8,5 +8,6 @@ module.exports = {
   },
   moduleNameMapper: {
     '@/(.*)$': '<rootDir>/src/$1'
-  }
+  },
+  coveragePathIgnorePatterns: ['index.ts']
 }
